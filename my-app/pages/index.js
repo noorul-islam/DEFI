@@ -476,7 +476,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Crypto Devs</title>
+        <title>Crypto Devs Exchange by Noorul Islam</title>
         <meta name="description" content="Exchange-Dapp" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
